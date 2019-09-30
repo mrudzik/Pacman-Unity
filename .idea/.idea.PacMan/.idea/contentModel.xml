@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Max Rudzon\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Max Rudzon\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_PacMan.1104841831.00" t="ExcludeRecursive" />
+    <e p="D:\Work\TestTasks\PacMan\PacMan" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AIPlayerKiller.cs" t="Include" />
+          <e p="AISearcher.cs" t="Include" />
+          <e p="Ball.cs" t="Include" />
+          <e p="Ghost.cs" t="Include" />
+          <e p="MapElement.cs" t="Include" />
+          <e p="MenuManager.cs" t="Include" />
+          <e p="PacMan_Controller.cs" t="Include" />
+          <e p="PacMan_Map.cs" t="Include" />
+          <e p="PacManData.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PacMan.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
